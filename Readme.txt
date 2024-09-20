@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: DevFolio
+Theme Name: MWPDESIGNER
 Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
+Author: MOHSIN
 Author URL: https://bootstrapmade.com
